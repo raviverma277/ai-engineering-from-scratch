@@ -6,8 +6,7 @@
 - [x] Lesson 02 — git-and-collaboration (5/5 quiz)
 - [x] Lesson 03 — gpu-setup-and-cloud (5/5 quiz)
 - [x] Lesson 04 — apis-and-keys (5/5 quiz)
-- [ ] Lesson 04 — apis-and-keys
-- [ ] Lesson 05 — jupyter-notebooks
+- [x] Lesson 05 — jupyter-notebooks
 - [ ] Lesson 06 — python-environments
 - [ ] Lesson 07 — docker-for-ai
 - [ ] Lesson 08 — editor-setup
